@@ -1,0 +1,10 @@
+{
+  "Rules": [
+    {
+      "ID": "PurgeTemporaryUploadsAfter24Hours",
+      "Status": "Enabled",
+      "Filter": { "Prefix": "user-uploads/" },
+      "Expiration": { "Days": 1 }
+    }
+  ]
+}
