@@ -54,6 +54,7 @@ Index Schema Mapping Example
 Below is the deployment blueprint utilized for establishing the OpenSearch multi-vector spatial index:
 
 JSON
+
 {
   "settings": {
     "index": {
